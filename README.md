@@ -4,9 +4,6 @@
 
 **Mekdim** (Amharic for "Beginning") is an AI-powered super-app designed to bridge the healthcare gap in Ethiopia. It creates a unified ecosystem for mothers, children, and healthcare professionals, targeting the reduction of maternal mortality and the enhancement of clinical decision-making through localized, multilingual AI.
 
-
-📱 App Preview
-
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1KrlSt73Kn1Joq0TYjCBBzTXskQIsO8Ac" width="100%" alt="Mekdim app design" />
 </p>
@@ -18,16 +15,6 @@ In Ethiopia, the Maternal Mortality Ratio remains a critical challenge. **Mekdim
   * **Empowering Mothers:** Providing AI-driven triage and culturally relevant health education in local languages (Amharic, Oromiffa, Tigrinya).
   * **Upskilling Doctors:** Delivering AI-summarized African health research and Continuing Medical Education (CME).
   * **Smart Matching:** Connecting rural patients to the nearest verified doctors and institutions using GPS-based matching.
-
------
-
-## 📱 App Preview
-
-\<p align="center"\>
-\<img src="[https://your-image-url.com/screen1.png](https://www.google.com/search?q=https://your-image-url.com/screen1.png)" width="30%" alt="Mother's Dashboard" /\>
-\<img src="[https://your-image-url.com/screen2.png](https://www.google.com/search?q=https://your-image-url.com/screen2.png)" width="30%" alt="AI Triage Chat" /\>
-\<img src="[https://your-image-url.com/screen3.png](https://www.google.com/search?q=https://your-image-url.com/screen3.png)" width="30%" alt="Doctor's CME Portal" /\>
-\</p\>
 
 -----
 
