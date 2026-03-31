@@ -5,11 +5,11 @@
 **Mekdim** (Amharic for "Beginning") is an AI-powered super-app designed to bridge the healthcare gap in Ethiopia. It creates a unified ecosystem for mothers, children, and healthcare professionals, targeting the reduction of maternal mortality and the enhancement of clinical decision-making through localized, multilingual AI.
 
 
-\<p align="center"\>
-\<img src="https://drive.google.com/file/d/1KrlSt73Kn1Joq0TYjCBBzTXskQIsO8Ac/view?usp=sharing" width="30%" alt="Mekdim app design" /\>
+📱 App Preview
 
-\</p\>
------
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/1KrlSt73Kn1Joq0TYjCBBzTXskQIsO8Ac" width="30%" alt="Mekdim app design" />
+</p>
 
 ## 🚀 The Vision
 
