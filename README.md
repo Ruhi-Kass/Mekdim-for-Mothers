@@ -8,7 +8,7 @@
 📱 App Preview
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/d/1KrlSt73Kn1Joq0TYjCBBzTXskQIsO8Ac" width="30%" alt="Mekdim app design" />
+<img src="https://lh3.googleusercontent.com/d/1KrlSt73Kn1Joq0TYjCBBzTXskQIsO8Ac" width="100%" alt="Mekdim app design" />
 </p>
 
 ## 🚀 The Vision
